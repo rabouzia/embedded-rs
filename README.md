@@ -17,7 +17,12 @@ I use the [Embassy](https://embassy.dev/) async framework to facilitate my learn
 ## Hardware
 
 - **STM32** - ARM Cortex-M based microcontroller
+
+![STM32-STM32F4-STM32F411-STM32F411CEU6-pinout-low-resolution](https://github.com/user-attachments/assets/bb144785-a64b-49b9-83e1-f499e4e4ad69)
+  
 - **ESP32** - Dual-core microcontroller with WiFi/Bluetooth
+  
+<img width="727" height="508" alt="ESP32-Pinout" src="https://github.com/user-attachments/assets/32aeab35-963a-486d-bfd3-280af1192a2a" />
 
 ## Project Structure
 
